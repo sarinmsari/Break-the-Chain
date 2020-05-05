@@ -4,4 +4,9 @@ img{
 }
 nav{
     background-color: #fff;
+    position: fixed;
+}
+.navbar{
+    background-color: #fff;
+    position: fixed;
 }
